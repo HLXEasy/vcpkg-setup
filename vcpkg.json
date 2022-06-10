@@ -3,7 +3,10 @@
   "version-string": "latest",
   "dependencies": [
     "fmt",
-    "boost-config",
+    "berkeleydb",
+    "boost",
+    "leveldb",
+    "openssl",
     "sqlite3"
   ]
 }
